@@ -1,0 +1,10 @@
+{
+  "description": "Button in top panel that restart Gnome when clicked by logging out.",
+  "name": "Shutdown Button",
+  "shell-version": [
+    "43"
+  ],
+  "url": "https://github.com/0CT0PUCE-LOG/gnome-shell-extension-shutdown-button",
+  "uuid": "shutdown-button@0ct0puce.com",
+  "version": 1
+}
